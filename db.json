@@ -17,8 +17,6 @@
       "pass":"three"
     }
   ],
-  
-  
   "pycourses":[
     {
       "id":1,
@@ -30,31 +28,31 @@
       "id":2,
       "cname":"Basics of Py3",
       "url":"https://i.ibb.co/C1v0Q3k/py3.jpg",
-      content:"content of Basics of Py3"
+      "content":"content of Basics of Py3"
     },
     {
       "id":3,
       "cname":"Py2 vs Py3",
       "url":"https://i.ibb.co/TPZbGc6/py4.png",
-      content:"content of Py2 vs Py3"
+      "content":"content of Py2 vs Py3"
     },
     {
       "id":4,
       "cname":"Core Python",
       "url":"https://i.ibb.co/Ms13Szs/py5.jpg",
-      content:"content of Core Python"
+      "content":"content of Core Python"
     },
     {
       "id":5,
       "cname":"Advance Python",
       "url":"https://i.ibb.co/687mFHJ/py6.jpg",
-      content:"content of Advance Python"
+      "content":"content of Advance Python"
     },
     {
       "id":6,
       "cname":"Python Framework",
       "url":"https://i.ibb.co/GFWkDk4/py7.png",
-      content:"content of Python Framework"
+      "content":"content of Python Framework"
     }
     
   ],
@@ -67,37 +65,37 @@
       "id":1,
       "cname":"Basics of Java",
       "url":"https://i.ibb.co/vZ4vjS5/j2.jpg",
-      content:"content of basics of Java"
+      "content":"content of basics of Java"
     },
     {
       "id":2,
       "cname":"Function Concepts",
       "url":"https://i.ibb.co/DQjxF8b/j3.png",
-      content:"content of Function Concepts"
+      "content":"content of Function Concepts"
     },
     {
       "id":3,
       "cname":"OOPS Concepts",
       "url":"https://i.ibb.co/sQ7S8V0/j4.png",
-      content:"content of OOPS Concepts"
+      "content":"content of OOPS Concepts"
     },
     {
       "id":4,
       "cname":"Core Java",
       "url":"https://i.ibb.co/qk9H22d/j5.jpg",
-      content:"content of Core Java"
+      "content":"content of Core Java"
     },
     {
       "id":5,
       "cname":"Advance Java",
       "url":"https://i.ibb.co/KbP4dcH/j6.jpg",
-      content:"content of Advance Java"
+      "content":"content of Advance Java"
     },
     {
       "id":6,
       "cname":"Java Framework",
       "url":"https://i.ibb.co/19CKrRx/j7.jpg",
-      content:"content of Java Framework"
+      "content":"content of Java Framework"
     }
     
   ],
@@ -115,44 +113,37 @@
       "id":1,
       "cname":"Basics of React",
       "url":"https://i.ibb.co/7bP63K8/r2.png",
-      content:"content of basics of React"
+      "content":"content of basics of React"
     },
     {
       "id":2,
       "cname":"Inline Style",
       "url":"https://i.ibb.co/t4RzTK3/r1.jpg",
-      content:"content of Inline Style"
+      "content":"content of Inline Style"
     },
     {
       "id":3,
       "cname":"API Database",
       "url":"https://i.ibb.co/ZVNHRsK/r3.jpg",
-      content:"content of API Database"
+      "content":"content of API Database"
     },
     {
       "id":4,
       "cname":"Redux Concepts",
       "url":"https://i.ibb.co/r7QvnvY/r4.png",
-      content:"content of Redux Concepts"
+      "content":"content of Redux Concepts"
     },
     {
       "id":5,
       "cname":"Advance React",
       "url":"https://i.ibb.co/Lg6fkFH/r5.jpg",
-      content:"content of Advance React"
+      "content":"content of Advance React"
     },
     {
       "id":6,
       "cname":"React Hooks",
       "url":"https://i.ibb.co/2h62zR4/r6.png",
-      content:"content of React Hooks"
-    }
-    
+      "content":"content of React Hooks"
+    } 
   ]
-  
-  
-  
-  
-  
-  
 }
